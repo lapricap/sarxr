@@ -13,7 +13,7 @@ There are a few different glove projects out there.
 ### Locomotion
 For those who want more physicality in their movements of VR.
 - [Locomotion Vault](https://locomotionvault.github.io/)
-  -  A collection of a lot of different locomotion methods
+  - A collection of a lot of different locomotion methods
 
 - Finally Functional
   - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
@@ -64,7 +64,7 @@ Taking suggestions for better title for this section. ;D Controllers that aren't
 
 ### VR Dongles
 This has its own section b/c I think people will want to find this easily
-- https://vrdongles.com/products/watchman-dongle-for-steamvr-and-htc-vive
+- {VRDongles Website](https://vrdongles.com/products/watchman-dongle-for-steamvr-and-htc-vive)
 
 ### Trackers
 - [Tundra Tracker](https://tundra-labs.com/)
