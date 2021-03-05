@@ -3,25 +3,26 @@ Here you'll find a collection of different open source and commercial projects t
 
 ### VR Gloves
 There are a few different glove projects out there.
-#### Nixie's Gloves
-- [Youtube](https://www.youtube.com/channel/UCNGCTImoIUaZCe7lNzipKzA)
-#### LucidVR
-- [Youtube](https://www.youtube.com/channel/UCjWBEvwq3iNLXEdrGTR5S9A)
-#### Fngrs
-- [Github](https://github.com/danwillm/Fngrs)
+- Nixie's Gloves
+ - [Youtube](https://www.youtube.com/channel/UCNGCTImoIUaZCe7lNzipKzA)
+- LucidVR
+ - [Youtube](https://www.youtube.com/channel/UCjWBEvwq3iNLXEdrGTR5S9A)
+- Fngrs
+ - [Github](https://github.com/danwillm/Fngrs)
 
 ### Locomotion
 For those who want more physicality in their movements of VR.
-#### Finally Functional
-- [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
-- [Discord](https://discord.com/invite/w3eSp5P)
-#### Kat VR
+- Finally Functional
+ - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
+ - [Discord](https://discord.com/invite/w3eSp5P)
+
+- Kat VR
  - [Website](https://www.kat-vr.com/)
 
 ### Grab Controllers
 Taking suggestions for better title for this section. ;D Controllers that aren't gloves.
-#### etee
-- [Website](https://tg0.co.uk/etee/)
+- etee
+ - [Website](https://tg0.co.uk/etee/)
 
 ### Mix tracking tech!
 - [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)
