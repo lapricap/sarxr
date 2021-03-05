@@ -79,4 +79,4 @@ This has its own section b/c I think people will want to find this easily
 
 ### Suggestions?
 This site is still a work in progress, thanks for your suggestions!
-- [Suggstion form!](https://forms.gle/P2CFMMB92ckUWyFk9)
+- [Suggsetion form!](https://forms.gle/P2CFMMB92ckUWyFk9)
