@@ -35,7 +35,10 @@ Taking suggestions for better title for this section. ;D Controllers that aren't
 - OpenVR Space Calibrator
   - [GitHub](https://github.com/pushrax/OpenVR-SpaceCalibrator)
   - [Discord](https://discord.gg/m7g2Wyj)
-
+- [MixedVR Reddit](https://www.reddit.com/r/MixedVR/)
+  - [Use Oculus CV1 Touch with WMR](https://www.reddit.com/r/MixedVR/comments/l42zp4/announcing_oculus_touch_as_mixevr_controller/)
+    - [Github with guides](https://github.com/PumkinSpice/MixedVR/wiki/MixedVR-CV1-Touch)
+    
 ### Existing Tech Explanation/Teardown
 - [Vive Controller Fix Vid](https://www.youtube.com/watch?v=0mi3KWG5mic)
 - [Video demo of Lighthouse](https://www.youtube.com/watch?v=oqPaaMR4kY4)
