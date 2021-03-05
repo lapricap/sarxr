@@ -64,7 +64,7 @@ Taking suggestions for better title for this section. ;D Controllers that aren't
 
 ### VR Dongles
 This has its own section b/c I think people will want to find this easily
-- {VRDongles Website](https://vrdongles.com/products/watchman-dongle-for-steamvr-and-htc-vive)
+- [VRDongles Website](https://vrdongles.com/products/watchman-dongle-for-steamvr-and-htc-vive)
 
 ### Trackers
 - [Tundra Tracker](https://tundra-labs.com/)
