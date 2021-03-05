@@ -73,3 +73,7 @@ This has its own section b/c I think people will want to find this easily
 - [OpenVR Driver Tutorial](https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial)
 - [OpenVR Driver Example](https://github.com/r57zone/OpenVR-driver-for-DIY)
 - [Position Aware Device](https://blog.crashspace.org/2016/12/position-aware-device/)
+
+### Suggestions?
+This site is still a work in progress, thanks for your suggestions!
+- [Suggstion form!](https://forms.gle/P2CFMMB92ckUWyFk9)
