@@ -4,29 +4,30 @@ Here you'll find a collection of different open source and commercial projects t
 ### VR Gloves
 There are a few different glove projects out there.
 - Nixie's Gloves
- - [Youtube](https://www.youtube.com/channel/UCNGCTImoIUaZCe7lNzipKzA)
+  - [Youtube](https://www.youtube.com/channel/UCNGCTImoIUaZCe7lNzipKzA)
 - LucidVR
- - [Youtube](https://www.youtube.com/channel/UCjWBEvwq3iNLXEdrGTR5S9A)
+   - [Youtube](https://www.youtube.com/channel/UCjWBEvwq3iNLXEdrGTR5S9A)
 - Fngrs
- - [Github](https://github.com/danwillm/Fngrs)
+   - [Github](https://github.com/danwillm/Fngrs)
 
 ### Locomotion
 For those who want more physicality in their movements of VR.
 - Finally Functional
- - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
- - [Discord](https://discord.com/invite/w3eSp5P)
+  - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
+  - [Discord](https://discord.com/invite/w3eSp5P)
 
 - Kat VR
- - [Website](https://www.kat-vr.com/)
+  - [Website](https://www.kat-vr.com/)
 
 ### Grab Controllers
 Taking suggestions for better title for this section. ;D Controllers that aren't gloves.
 - etee
- - [Website](https://tg0.co.uk/etee/)
+  - [Website](https://tg0.co.uk/etee/)
 
 ### Mix tracking tech!
-- [OpenVR Space Calibrator](https://github.com/pushrax/OpenVR-SpaceCalibrator)
- - [Discord](https://discord.gg/m7g2Wyj)
+- OpenVR Space Calibrator
+  - [GitHub](https://github.com/pushrax/OpenVR-SpaceCalibrator)
+  - [Discord](https://discord.gg/m7g2Wyj)
 
 ### Existing Tech Explanation/Teardown
 - [Vive Controller Fix Vid](https://www.youtube.com/watch?v=0mi3KWG5mic)
@@ -40,7 +41,7 @@ Taking suggestions for better title for this section. ;D Controllers that aren't
 ### Headset Alternative
 - [Hobo VR](https://github.com/okawo80085/hobo_vr)
 - [Relativty](https://www.relativty.com/)
- - [Unai](https://www.unai.one/) < Creators of Relativty making commercial project
+  - [Unai](https://www.unai.one/) < Creators of Relativty making commercial project
   - [Max Coutte posts updates on twitter](https://twitter.com/maxcoutte)
 
 ### Haptics
@@ -57,7 +58,7 @@ This has its own section b/c I think people will want to find this easily
 
 ### Trackers
 - [Tundra Tracker](https://tundra-labs.com/)
- - This also has HDK
+  - This also has HDK
 
 #### Random other links I've stumbled across
 - [Open VR Emulator](https://github.com/matzman666/OpenVR-InputEmulator)
