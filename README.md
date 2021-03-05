@@ -12,12 +12,19 @@ There are a few different glove projects out there.
 
 ### Locomotion
 For those who want more physicality in their movements of VR.
+- [Locomotion Vault](https://locomotionvault.github.io/)
+  -  A collection of a lot of different locomotion methods
+
 - Finally Functional
   - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
   - [Discord](https://discord.com/invite/w3eSp5P)
+  - [Hackster link](https://hackaday.io/project/177221-virtual-reality-motorized-shoes)
 
 - Kat VR
   - [Website](https://www.kat-vr.com/)
+
+- Another collection
+  - [Finally Functional has created a spreadsheet](https://docs.google.com/spreadsheets/d/13HEEwKw9yDvDPTsItNKO0q8XA8-Q0qYfyeVewCYYtw4/edit#gid=0)
 
 ### Grab Controllers
 Taking suggestions for better title for this section. ;D Controllers that aren't gloves.
