@@ -67,7 +67,7 @@ This has its own section b/c I think people will want to find this easily
 - [Tundra Tracker](https://tundra-labs.com/)
   - This also has HDK
 
-#### Random other links I've stumbled across
+### Random other links I've stumbled across
 - [Open VR Emulator](https://github.com/matzman666/OpenVR-InputEmulator)
 - [Hive Tracker](https://hackaday.io/project/160182-hivetracker/details)
 - [OpenVR Driver Tutorial](https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial)
