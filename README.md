@@ -19,6 +19,7 @@ For those who want more physicality in their movements of VR.
   - [Youtube](https://www.youtube.com/watch?v=g52XKVYtr5A)
   - [Discord](https://discord.com/invite/w3eSp5P)
   - [Hackster link](https://hackaday.io/project/177221-virtual-reality-motorized-shoes)
+  - [Github](https://github.com/finallyfunctional)
 
 - Kat VR
   - [Website](https://www.kat-vr.com/)
