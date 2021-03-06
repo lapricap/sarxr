@@ -70,11 +70,15 @@ This has its own section b/c I think people will want to find this easily
 - [Tundra Tracker](https://tundra-labs.com/)
   - This also has HDK
 
+### Hecc how do I make a driver
+- [Example bindings](https://github.com/SteamDatabase/GameTracking-SteamVR)
+- [OpenVR Driver Tutorial](https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial)
+- [OpenVR Driver Example](https://github.com/r57zone/OpenVR-driver-for-DIY)
+
+
 ### Random other links I've stumbled across
 - [Open VR Emulator](https://github.com/matzman666/OpenVR-InputEmulator)
 - [Hive Tracker](https://hackaday.io/project/160182-hivetracker/details)
-- [OpenVR Driver Tutorial](https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial)
-- [OpenVR Driver Example](https://github.com/r57zone/OpenVR-driver-for-DIY)
 - [Position Aware Device](https://blog.crashspace.org/2016/12/position-aware-device/)
 
 ### Suggestions?
